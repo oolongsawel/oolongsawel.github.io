@@ -61,7 +61,7 @@ _italic_
 
 `SIMPLE CODE`
 
-```CPP
+```cpp
 #include <stdio.h>
 
 int main(){
@@ -73,7 +73,7 @@ int main(){
 ----
 
 `SIMPLE CODE`
-```cpp
+```c
 
 __global__ cudaMemcpy(void){
     
