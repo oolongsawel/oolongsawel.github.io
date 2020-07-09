@@ -1,4 +1,5 @@
 ---
+layout : "post"
 titile : "My First Post"
 category :
     - hello
