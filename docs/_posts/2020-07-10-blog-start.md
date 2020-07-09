@@ -1,7 +1,9 @@
 ---
 layout : post
-titile : 지킬 jekyll로 포스팅하기
+titile : '지킬 jekyll로 포스팅하기'
 category : dev
+author : 안선영
+date : 2020-07-10
 tag : [blog, jekyll, github.id]
 ---
 
