@@ -1,11 +1,8 @@
 ---
-layout : "post"
-titile : "My First Post"
-category :
-    - hello
-tag : 
-    - hello
-toc : true
+layout : post
+titile : 지킬 jekyll로 포스팅하기
+category : dev
+tag : [blog, jekyll, github.id]
 ---
 
 
