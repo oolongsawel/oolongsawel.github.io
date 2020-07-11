@@ -61,11 +61,11 @@ _italic_
 
 `SIMPLE CODE`
 
-```cpp
+```c++
 #include <stdio.h>
 
 int main(){
-    printf("hello  world!");
+    printf("hello  world!")
     return 0;
 }
 ```
@@ -79,4 +79,14 @@ __global__ cudaMemcpy(void){
     
 }
 
+```
+
+
+```java
+codeblock
+
+void class main(void){
+
+
+}
 ```
