@@ -1,2 +1,1 @@
-# oolongsawel.github.io
-oolongsawel.github.io
+# 깃 트와이스: Git 익숙해지기~개인 프로필 홈페이지 만들기
